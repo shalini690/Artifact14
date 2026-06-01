@@ -1,7 +1,7 @@
 {
   "name": "artifact14",
   "version": "1.0.0",
-  "description": "A minimal Node.js HTTP server built on Express.js exposing a 'Hello world' endpoint (GET /) and a 'Good evening' endpoint (GET /good-evening).",
+  "description": "Minimal Node.js HTTP server built on Express.js exposing 'Hello world' (GET /) and 'Good evening' (GET /good-evening) endpoints.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
